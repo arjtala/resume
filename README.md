@@ -8,4 +8,4 @@
 
 **PDF Format**
 
-[embed]./resume.pdf[/embed]
+[embed]https://github.com/arjology/resume/blob/master/resume.pdf[/embed]
