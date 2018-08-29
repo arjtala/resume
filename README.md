@@ -8,4 +8,4 @@
 
 **PDF Format**
 
-(https://github.com/arjology/resume/blob/master/resume.pdf)
+![resume](https://github.com/arjology/resume/blob/master/resume.pdf)
