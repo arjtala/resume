@@ -223,11 +223,12 @@ technical summary
     {production}
     {\scriptsize Leveraging Cassandra and Spark (Spark Streaming) for large-scale graph networks and analyses including:\\
     Building tools to explore and analyze graph data in a distributed cloud-based cluster.
-    
+
     Developing machine learning algorithms and automation of real-time entity resolution / disambiguation at scale.
     
     Dealing with 10\textsuperscript{7} (eventually reaching 10\textsuperscript{9}) transactions daily utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
-    successfully deploying working beta software to client; revenue increase from \$1.8M to \$6.0M; internal investment by firm (\$0.5M) to generalize new capability based on client deliverable.}
+    
+    Revenue increase from \$1.8M to \$6.0M; internal investment by firm (\$0.5M) to generalize new capability based on client deliverable.}
 \entry
     {\scriptsize \faicon{stethoscope}}
     {Stochastic fluid transit model}
