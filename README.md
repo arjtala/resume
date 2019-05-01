@@ -47,7 +47,7 @@ technical summary
 =================
 
 Computer vision machine learning pipeline. production Deploying and
-optimizing large computer vision end-to-end processing pipeline:
+optimizing large computer vision end-to-end processing pipeline:\
 Tensorflow & Pytorch, AWS Batch, SQS, PostgreSQL, and Redis Deep
 learning-based global feature extraction and large-scale image
 retrieval. Graph database deployment for geospatial image data used in
