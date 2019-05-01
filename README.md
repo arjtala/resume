@@ -39,10 +39,10 @@ football photography
 INTRODUCTION
 ============
 
-Machine learning engineer in London. Python, Java & Scala developer.
-Spark and graph database enthusiast. Applied mathematician by training.
-Scholar of gastrointestinal motility variation. UK Tier 1 Exceptional
-Talent Visa.
+Machine learning engineer / data scientist based in London. Python, Java
+& Scala developer. Spark and graph database enthusiast. Applied
+mathematician by training. Scholar of gastrointestinal motility
+variation. UK Tier 1 Exceptional Talent Visa.
 
 technical summary
 =================
@@ -50,12 +50,12 @@ technical summary
 Computer vision machine learning pipeline. production Deploying and
 optimizing large computer vision end-to-end processing pipeline:\
 Tensorflow & Pytorch, AWS Batch, SQS, PostgreSQL, and Redis Deep
-learning-based global feature extraction and large-scale image
-retrieval. Graph database deployment for geospatial image data used in
-pre-reconstruction pipeline of 3D geometric models. Massively scaled
-graph database analytics. production Leveraging Cassandra and Spark
-(Spark Streaming) for large-scale graph networks and analyses
-including:\
+learning-based global image feature extraction and large-scale image
+retrieval. Optimization of code to improve runtime and significantly
+reduce costs. Graph database deployment for geospatial image data used
+in pipeline to build 3D geometric models. Massively scaled graph
+database analytics. production Leveraging Cassandra and Spark (Spark
+Streaming) for large-scale graph networks and analyses including:\
 Building tools to explore and analyze graph data in a distributed
 cloud-based cluster. Developing machine learning algorithms and
 automation of real-time entity resolution (data disambiguation) at
