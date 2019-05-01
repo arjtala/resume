@@ -53,7 +53,8 @@ learning-based global feature extraction and large-scale image
 retrieval. Graph database deployment for geospatial image data used in
 pre-reconstruction pipeline of 3D geometric models. Massively scaled
 graph database analytics. production Leveraging Cassandra and Spark
-(Spark Streaming) for large-scale graph networks and analyses including:
+(Spark Streaming) for large-scale graph networks and analyses
+including:\
 Building tools to explore and analyze graph data in a distributed
 cloud-based cluster. Developing machine learning algorithms and
 automation of real-time entity resolution (data disambiguation) at
@@ -63,17 +64,18 @@ through an ETL pipeline. Revenue increase from \$1.8M to \$6.0M;
 internal investment by firm (\$0.5M) to generalize new capability based
 on client deliverable. Stochastic fluid transit model research Developed
 in Java to to study the effects of physiological variations on drug
-transit, dissolution, and absorption Pulsatile, non-deterministic
-approach; Application of a non-homogeneous Poisson process; Based on
-sampling from and imaging of small bowel free water content Analysis of
-noisy gastrointestinal pressure signals research Wavelet-based peak
-detection and kernel density estimation; Machine learning, Gaussian
-process regression & PCA for signal classification; Completed in Python
-with SciPy/NumPy/SciKit packages Java interface for handling parameters
-and their values with syntax highlighting production Managing dynamic
-parameters that control processing pipeline; Parameters and database
-fields (JDBC Data\_Port for MySQL); Pipeline source queue management and
-error handling
+transit, dissolution, and absorption\
+Pulsatile, non-deterministic approach; Application of a non-homogeneous
+Poisson process; Based on sampling from and imaging of small bowel free
+water content Analysis of noisy gastrointestinal pressure signals
+research Wavelet-based peak detection and kernel density estimation\
+Machine learning, Gaussian process regression & PCA for signal
+classification; Completed in Python with SciPy/NumPy/SciKit packages
+Java interface for handling parameters and their values with syntax
+highlighting production Managing dynamic parameters that control
+processing pipeline\
+Parameters and database fields (JDBC Data\_Port for MySQL); Pipeline
+source queue management and error handling
 
 professional experience
 =======================
