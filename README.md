@@ -1,4 +1,4 @@
-principal data scientist
+principal data scientist \| machine learning engineer
 
 contact
 =======
