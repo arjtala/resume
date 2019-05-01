@@ -34,7 +34,7 @@ scripting (bash, sed, awk)
 activities
 ==========
 
-football photography
+football photography learning C
 
 INTRODUCTION
 ============
