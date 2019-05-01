@@ -1,4 +1,5 @@
-principal data scientist \| machine learning engineer
+principal data scientist \| machine learning engineer \| make things
+fast
 
 contact
 =======
