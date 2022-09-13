@@ -1,24 +1,24 @@
 
 # Table of Contents
 
--   [Experience](#orgf7db99a)
-    -   [Meta](#orge96fa78)
-        -   [Data Flow Conductor](#orgb57aeb6)
-    -   [Scape Technologies](#orgd23c46a)
-        -   [Machine Learning Engineer](#org56b4157)
-    -   [Deloitte Consulting LLP](#orgb220b9e)
-        -   [Senior Consultant](#org26a4795)
-    -   [US Food and Drug Administration](#org7b8467b)
-        -   [Quantitative Research Fellow](#org213c33a)
--   [Skills](#orga990cca)
--   [Projects](#org389e17d)
--   [Education](#org3abdf8c)
-    -   [University of Michigan](#org2745b8d)
-        -   [PhD Pharmaceutical Sciences](#org5962f19)
-    -   [New York University](#orgde697e6)
-        -   [MSc Computational Biology](#org677b59f)
-    -   [University of Arizona](#org0354fd9)
-        -   [BSc Mathematics](#org5eb8696)
+-   [Experience](#org75aeb28)
+    -   [Meta](#org628612c)
+        -   [Data Flow Conductor](#orgb7c9c68)
+    -   [Scape Technologies](#org2da26c6)
+        -   [Machine Learning Engineer](#orge16df63)
+    -   [Deloitte Consulting LLP](#org954d0b0)
+        -   [Senior Consultant](#org9aae8c8)
+    -   [US Food and Drug Administration](#orgcf480d2)
+        -   [Quantitative Research Fellow](#org1c52667)
+-   [Skills](#org9c3c667)
+-   [Projects](#org602035c)
+-   [Education](#org9153e6a)
+    -   [University of Michigan](#org6d978d2)
+        -   [PhD Pharmaceutical Sciences](#orgc648e7a)
+    -   [New York University](#org5c0e661)
+        -   [MSc Computational Biology](#orgc98c434)
+    -   [University of Arizona](#org1187e34)
+        -   [BSc Mathematics](#orgdf2ddca)
 
 Software engineer. Scholar of gastrointestinal motility variation.
 
@@ -27,29 +27,29 @@ Building robust, scalable sytems to empower computer vision research
 US Citizen and UK Tier 1 Exceptional Talent Visa.
 
 
-<a id="orgf7db99a"></a>
+<a id="org75aeb28"></a>
 
 # Experience
 
 
-<a id="orge96fa78"></a>
+<a id="org628612c"></a>
 
 ## Meta
 
 
-<a id="orgb57aeb6"></a>
+<a id="orgb7c9c68"></a>
 
 ### Data Flow Conductor
 
 -   Developing the generation of computation at Meta RealityLabs Research.
 
 
-<a id="orgd23c46a"></a>
+<a id="org2da26c6"></a>
 
 ## Scape Technologies
 
 
-<a id="org56b4157"></a>
+<a id="orge16df63"></a>
 
 ### Machine Learning Engineer
 
@@ -60,12 +60,12 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
 -   Acquired by Facebook
 
 
-<a id="orgb220b9e"></a>
+<a id="org954d0b0"></a>
 
 ## Deloitte Consulting LLP
 
 
-<a id="org26a4795"></a>
+<a id="org9aae8c8"></a>
 
 ### Senior Consultant
 
@@ -76,12 +76,12 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
     knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
 
 
-<a id="org7b8467b"></a>
+<a id="orgcf480d2"></a>
 
 ## US Food and Drug Administration
 
 
-<a id="org213c33a"></a>
+<a id="org1c52667"></a>
 
 ### Quantitative Research Fellow
 
@@ -90,7 +90,7 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="orga990cca"></a>
+<a id="org9c3c667"></a>
 
 # Skills
 
@@ -99,7 +99,7 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
 -   **Activities**: football, hiking, photography, running
 
 
-<a id="org389e17d"></a>
+<a id="org602035c"></a>
 
 # Projects
 
@@ -116,39 +116,39 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable.
 
 
-<a id="org3abdf8c"></a>
+<a id="org9153e6a"></a>
 
 # Education
 
 
-<a id="org2745b8d"></a>
+<a id="org6d978d2"></a>
 
 ## University of Michigan
 
 
-<a id="org5962f19"></a>
+<a id="orgc648e7a"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="orgde697e6"></a>
+<a id="org5c0e661"></a>
 
 ## New York University
 
 
-<a id="org677b59f"></a>
+<a id="orgc98c434"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org0354fd9"></a>
+<a id="org1187e34"></a>
 
 ## University of Arizona
 
 
-<a id="org5eb8696"></a>
+<a id="orgdf2ddca"></a>
 
 ### BSc Mathematics
 

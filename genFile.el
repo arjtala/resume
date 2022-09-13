@@ -63,7 +63,8 @@ apps are not started from a shell."
 	(shell-command (format "pdflatex %s" outfile) "*Messages*" "*Messages*")
 	(message (format "Executing bibtex on %s" (file-name-sans-extension file)))
 	(shell-command (format "bibtex %s" (file-name-sans-extension outfile) ))
-	(shell-command (format "pdflatex %s" outfile) "*Messages*" "*Messages*")))
+	(shell-command (format "pdflatex %s" outfile) "*Messages*" "*Messages*")
+	(org-md-export-to-markdown)))
 
 
 (set-exec-path-from-shell-PATH)
