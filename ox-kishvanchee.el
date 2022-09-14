@@ -70,7 +70,9 @@ holding export options."
 
    ;; Creator
    (and (plist-get info :with-creator)
-        (concat "\\creator{" (plist-get info :creator) "}" "\n\n"))
+		(format "\\creator{Emacs %s (org mode %s)}\n\n" emacs-version org-version)
+		;;(concat "\\creator{" (plist-get info :creator) "}" "\n\n")
+		)
 
    ;; Document start.
    "\\begin{document}\n"
