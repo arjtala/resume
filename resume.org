@@ -14,7 +14,7 @@ Software engineer. Scholar of gastrointestinal motility variation.
 
 Building robust, scalable sytems to empower computer vision research
 
-US Citizen and UK Tier 1 Exceptional Talent Visa.
+US Citizen and UK ILR.
 
 
 * Experience
@@ -22,7 +22,7 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
 :PROPERTIES:
 :LOCATION: London, UK
 :END:
-*** Data Flow Conductor
+*** Research Engineer (E6)
 :PROPERTIES:
 :FROM: <2020-01-27>
 :TO: Current
@@ -42,7 +42,7 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
   their surroundings and augment the world around them. Cloud side infrastructure allows ordinary mobile devices to enhance
   the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
   and artificial intelligence.
-- Acquired by Facebook
+- Acquired by Facebook January 2020
 
 ** Deloitte Consulting LLP
 :PROPERTIES:
@@ -79,9 +79,9 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
 - *Activities*: football, hiking, photography, running
 
 * Projects
-- *Large-Scale SfM Pipeline* -- /Python, C++, PyTorch, AWS, PostgreSQL, Redis/
+- *Large-Scale Structure-from-Motion Pipeline* -- /Python, C++, PyTorch, AWS, PostgreSQL, Redis/
   - Deploying and optimizing large computer vision end-to-end processing pipeline.
-  - Developing and optimizing large code base to improve runtime and significantly reduce costs.
+  - Developing and optimizing code base to improve runtime and significantly reduce costs.
   - Deep learning-based global image feature extraction and large-scale image retrieval.
   - Custom graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 - *Graph Database Analytics* /Scala, Java, Cassandra/NoSQL/

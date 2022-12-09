@@ -1,55 +1,55 @@
 
 # Table of Contents
 
--   [Experience](#org2b993f8)
-    -   [Meta](#org75e6518)
-        -   [Data Flow Conductor](#org804fcff)
-    -   [Scape Technologies](#org9f1fc1b)
-        -   [Machine Learning Engineer](#org5adaa3b)
-    -   [Deloitte Consulting LLP](#org9954b68)
-        -   [Senior Consultant](#org43e607a)
-    -   [US Food and Drug Administration](#orgb90e03d)
-        -   [Quantitative Research Fellow](#org7b37b05)
--   [Skills](#org1626b5e)
--   [Projects](#orga58cec9)
--   [Education](#org2f5da65)
-    -   [University of Michigan](#org73b9f03)
-        -   [PhD Pharmaceutical Sciences](#orgd3fd077)
-    -   [New York University](#org52efef6)
-        -   [MSc Computational Biology](#org5cf1dae)
-    -   [University of Arizona](#orgbbd7a97)
-        -   [BSc Mathematics](#orge122035)
+-   [Experience](#org45d522e)
+    -   [Meta](#orgdcb5d84)
+        -   [Research Engineer (E6)](#org2d19a3f)
+    -   [Scape Technologies](#orgabec3cb)
+        -   [Machine Learning Engineer](#orgdfc3e64)
+    -   [Deloitte Consulting LLP](#orgbccdc2a)
+        -   [Senior Consultant](#org67b4fe9)
+    -   [US Food and Drug Administration](#orgc7fa254)
+        -   [Quantitative Research Fellow](#org18fe14b)
+-   [Skills](#org8944398)
+-   [Projects](#orgde2af0b)
+-   [Education](#orgf5d5e95)
+    -   [University of Michigan](#org7675840)
+        -   [PhD Pharmaceutical Sciences](#orgc3f6228)
+    -   [New York University](#org6509084)
+        -   [MSc Computational Biology](#orgc81173a)
+    -   [University of Arizona](#org2d10839)
+        -   [BSc Mathematics](#orgd86a124)
 
 Software engineer. Scholar of gastrointestinal motility variation.
 
 Building robust, scalable sytems to empower computer vision research
 
-US Citizen and UK Tier 1 Exceptional Talent Visa.
+US Citizen and UK ILR.
 
 
-<a id="org2b993f8"></a>
+<a id="org45d522e"></a>
 
 # Experience
 
 
-<a id="org75e6518"></a>
+<a id="orgdcb5d84"></a>
 
 ## Meta
 
 
-<a id="org804fcff"></a>
+<a id="org2d19a3f"></a>
 
-### Data Flow Conductor
+### Research Engineer (E6)
 
 -   Developing the generation of computation at Meta RealityLabs Research.
 
 
-<a id="org9f1fc1b"></a>
+<a id="orgabec3cb"></a>
 
 ## Scape Technologies
 
 
-<a id="org5adaa3b"></a>
+<a id="orgdfc3e64"></a>
 
 ### Machine Learning Engineer
 
@@ -57,15 +57,15 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
     their surroundings and augment the world around them. Cloud side infrastructure allows ordinary mobile devices to enhance
     the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
     and artificial intelligence.
--   Acquired by Facebook
+-   Acquired by Facebook January 2020
 
 
-<a id="org9954b68"></a>
+<a id="orgbccdc2a"></a>
 
 ## Deloitte Consulting LLP
 
 
-<a id="org43e607a"></a>
+<a id="org67b4fe9"></a>
 
 ### Senior Consultant
 
@@ -76,12 +76,12 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
     knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
 
 
-<a id="orgb90e03d"></a>
+<a id="orgc7fa254"></a>
 
 ## US Food and Drug Administration
 
 
-<a id="org7b37b05"></a>
+<a id="org18fe14b"></a>
 
 ### Quantitative Research Fellow
 
@@ -90,7 +90,7 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org1626b5e"></a>
+<a id="org8944398"></a>
 
 # Skills
 
@@ -99,13 +99,13 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
 -   **Activities**: football, hiking, photography, running
 
 
-<a id="orga58cec9"></a>
+<a id="orgde2af0b"></a>
 
 # Projects
 
--   **Large-Scale SfM Pipeline** &#x2013; *Python, C++, PyTorch, AWS, PostgreSQL, Redis*
+-   **Large-Scale Structure-from-Motion Pipeline** &#x2013; *Python, C++, PyTorch, AWS, PostgreSQL, Redis*
     -   Deploying and optimizing large computer vision end-to-end processing pipeline.
-    -   Developing and optimizing large code base to improve runtime and significantly reduce costs.
+    -   Developing and optimizing code base to improve runtime and significantly reduce costs.
     -   Deep learning-based global image feature extraction and large-scale image retrieval.
     -   Custom graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 -   **Graph Database Analytics** *Scala, Java, Cassandra/NoSQL*
@@ -116,39 +116,39 @@ US Citizen and UK Tier 1 Exceptional Talent Visa.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable.
 
 
-<a id="org2f5da65"></a>
+<a id="orgf5d5e95"></a>
 
 # Education
 
 
-<a id="org73b9f03"></a>
+<a id="org7675840"></a>
 
 ## University of Michigan
 
 
-<a id="orgd3fd077"></a>
+<a id="orgc3f6228"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org52efef6"></a>
+<a id="org6509084"></a>
 
 ## New York University
 
 
-<a id="org5cf1dae"></a>
+<a id="orgc81173a"></a>
 
 ### MSc Computational Biology
 
 
-<a id="orgbbd7a97"></a>
+<a id="org2d10839"></a>
 
 ## University of Arizona
 
 
-<a id="orge122035"></a>
+<a id="orgd86a124"></a>
 
 ### BSc Mathematics
 
