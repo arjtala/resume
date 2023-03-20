@@ -1,71 +1,70 @@
 
 # Table of Contents
 
--   [Experience](#org45d522e)
-    -   [Meta](#orgdcb5d84)
-        -   [Research Engineer (E6)](#org2d19a3f)
-    -   [Scape Technologies](#orgabec3cb)
-        -   [Machine Learning Engineer](#orgdfc3e64)
-    -   [Deloitte Consulting LLP](#orgbccdc2a)
-        -   [Senior Consultant](#org67b4fe9)
-    -   [US Food and Drug Administration](#orgc7fa254)
-        -   [Quantitative Research Fellow](#org18fe14b)
--   [Skills](#org8944398)
--   [Projects](#orgde2af0b)
--   [Education](#orgf5d5e95)
-    -   [University of Michigan](#org7675840)
-        -   [PhD Pharmaceutical Sciences](#orgc3f6228)
-    -   [New York University](#org6509084)
-        -   [MSc Computational Biology](#orgc81173a)
-    -   [University of Arizona](#org2d10839)
-        -   [BSc Mathematics](#orgd86a124)
+-   [Experience](#orgbb42f47)
+    -   [Meta](#orgf09be75)
+        -   [Research Engineer (E6)](#org6c89f03)
+    -   [Scape Technologies](#org4d59f70)
+        -   [Machine Learning Engineer](#orge9dd24e)
+    -   [Deloitte Consulting LLP](#orga230121)
+        -   [Senior Consultant](#org7aa1db7)
+    -   [US Food and Drug Administration](#org884b781)
+        -   [Quantitative Research Fellow](#org5d0f0d8)
+-   [Skills](#org51f12e5)
+-   [Projects](#org1cb94f9)
+-   [Education](#org684c917)
+    -   [University of Michigan](#org5538d13)
+        -   [PhD Pharmaceutical Sciences](#org63bd5a4)
+    -   [New York University](#org955895d)
+        -   [MSc Computational Biology](#org08c237a)
+    -   [University of Arizona](#org4f7058b)
+        -   [BSc Mathematics](#orgbe3a903)
 
-Software engineer. Scholar of gastrointestinal motility variation.
-
-Building robust, scalable sytems to empower computer vision research
+Software engineer, scholar of gastrointestinal motility variation, builder robust & scalable sytems.
 
 US Citizen and UK ILR.
 
 
-<a id="org45d522e"></a>
+<a id="orgbb42f47"></a>
 
 # Experience
 
 
-<a id="orgdcb5d84"></a>
+<a id="orgf09be75"></a>
 
 ## Meta
 
 
-<a id="org2d19a3f"></a>
+<a id="org6c89f03"></a>
 
 ### Research Engineer (E6)
 
--   Developing the generation of computation at Meta RealityLabs Research.
+-   Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world.
+-   See <https://about.meta.com/uk/realitylabs/projectaria/>
 
 
-<a id="orgabec3cb"></a>
+<a id="org4d59f70"></a>
 
 ## Scape Technologies
 
 
-<a id="orgdfc3e64"></a>
+<a id="orge9dd24e"></a>
 
 ### Machine Learning Engineer
 
+-   Acquired by Facebook January 2020
 -   Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
     their surroundings and augment the world around them. Cloud side infrastructure allows ordinary mobile devices to enhance
     the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
     and artificial intelligence.
--   Acquired by Facebook January 2020
 
 
-<a id="orgbccdc2a"></a>
+<a id="orga230121"></a>
 
 ## Deloitte Consulting LLP
 
 
-<a id="org67b4fe9"></a>
+<a id="org7aa1db7"></a>
 
 ### Senior Consultant
 
@@ -76,12 +75,12 @@ US Citizen and UK ILR.
     knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
 
 
-<a id="orgc7fa254"></a>
+<a id="org884b781"></a>
 
 ## US Food and Drug Administration
 
 
-<a id="org18fe14b"></a>
+<a id="org5d0f0d8"></a>
 
 ### Quantitative Research Fellow
 
@@ -90,7 +89,7 @@ US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org8944398"></a>
+<a id="org51f12e5"></a>
 
 # Skills
 
@@ -99,7 +98,7 @@ US Citizen and UK ILR.
 -   **Activities**: football, hiking, photography, running
 
 
-<a id="orgde2af0b"></a>
+<a id="org1cb94f9"></a>
 
 # Projects
 
@@ -116,39 +115,39 @@ US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable.
 
 
-<a id="orgf5d5e95"></a>
+<a id="org684c917"></a>
 
 # Education
 
 
-<a id="org7675840"></a>
+<a id="org5538d13"></a>
 
 ## University of Michigan
 
 
-<a id="orgc3f6228"></a>
+<a id="org63bd5a4"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org6509084"></a>
+<a id="org955895d"></a>
 
 ## New York University
 
 
-<a id="orgc81173a"></a>
+<a id="org08c237a"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org2d10839"></a>
+<a id="org4f7058b"></a>
 
 ## University of Arizona
 
 
-<a id="orgd86a124"></a>
+<a id="orgbe3a903"></a>
 
 ### BSc Mathematics
 

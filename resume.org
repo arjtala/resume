@@ -10,9 +10,7 @@
 # eval: (bibtex-set-dialect 'biblatex)
 # End:
 
-Software engineer. Scholar of gastrointestinal motility variation.
-
-Building robust, scalable sytems to empower computer vision research
+Software engineer, scholar of gastrointestinal motility variation, builder robust & scalable sytems.
 
 US Citizen and UK ILR.
 
@@ -27,7 +25,8 @@ US Citizen and UK ILR.
 :FROM: <2020-01-27>
 :TO: Current
 :END:
-- Developing the generation of computation at Meta RealityLabs Research.
+- Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world.
+- See https://about.meta.com/uk/realitylabs/projectaria/
 
 ** Scape Technologies
 :PROPERTIES:
@@ -38,11 +37,11 @@ US Citizen and UK ILR.
 :FROM: <2017-08-01>
 :TO:   <2020-01-26>
 :END:
+- Acquired by Facebook January 2020
 - Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
   their surroundings and augment the world around them. Cloud side infrastructure allows ordinary mobile devices to enhance
   the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
   and artificial intelligence.
-- Acquired by Facebook January 2020
 
 ** Deloitte Consulting LLP
 :PROPERTIES:
