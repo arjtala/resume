@@ -10,13 +10,11 @@
 # eval: (bibtex-set-dialect 'biblatex)
 # End:
 
-Software engineer, scholar of gastrointestinal motility variation, builder robust & scalable sytems.
-
-US Citizen and UK ILR.
-
-
+Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
+* Technical Skills
+-  Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 * Experience
-** Meta
+** META
 :PROPERTIES:
 :LOCATION: London, UK
 :END:
@@ -26,12 +24,14 @@ US Citizen and UK ILR.
 :TO: Current
 :END:
 - Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world
-- Creator and maintainer of geospatial ingestion and indexing of audio-video data from Project Aria (see https://about.meta.com/uk/realitylabs/projectaria/)
-- Enabled distributed computing to run large-scale optimization libraries on Meta infrastructure
-- Contributed to upgrading company-wide Rust libraries;
-- Promotion from IC5 to IC6 (July 2022) and three consecutive ratings of Exceeded Expectations during performance evaluation cycles
+- *Geospatial Ingestion and Indexing* -- /Python, C++/
+  - Creator and maintainer of the pipeline, enabling search and discovery of audio-video data from Project Aria (see https://about.meta.com/uk/realitylabs/projectaria/)
+- *Distributed Computing* -- /Python, C++/
+  - Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
+- Contributed to upgrading company-wide libraries -- /Rust/
+- Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
-** Scape Technologies
+** SCAPE TECHNOLOGIES
 :PROPERTIES:
 :LOCATION: London, UK
 :END:
@@ -45,8 +45,13 @@ US Citizen and UK ILR.
   their surroundings and augment the world around them. Cloud infrastructure allows ordinary mobile devices to enhance
   the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
   and artificial intelligence.
+- *Large-Scale Structure-from-Motion Pipeline* -- /Python, C++, PyTorch, AWS, PostgreSQL, Redis/
+  - Deploying and optimizing large computer vision end-to-end processing pipeline.
+  - Developing and optimizing code base to improve runtime and significantly reduce costs.
+  - Deep learning-based global image feature extraction and large-scale image retrieval.
+  - Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
-** Deloitte Consulting LLP
+** DELOITTE CONSULTING LLP
 :PROPERTIES:
 :LOCATION: Roslyn, VA, USA
 :END:
@@ -60,8 +65,15 @@ US Citizen and UK ILR.
   strategy and business process; assisting in development, collection, analysis,
   and reporting of data by leverage big data and machine learning technologies; serving as domain
   knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
+- *Distributed Graph Database Analytics* -- /Scala, Java, Kafka, Cassandra/NoSQL/
+  - Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
+    - Migration of client data from on-prem to cloud (AWS)
+    - Building tools to explore and analyze graph data in a distributed system
+    - Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
+    - Dealing with 10^7 (eventually reaching 10^9) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
+    - Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf)
 
-** US Food and Drug Administration
+** US FOOD AND DRUG ADMINISTRATION
 :PROPERTIES:
 :LOCATION: Silver Spring, MD, USA
 :END:
@@ -73,25 +85,6 @@ US Citizen and UK ILR.
 - Division of Quantitative Methods and Modeling in the Office of Research and Standards within the Office of Generic Drugs.
 - Applying mathematical analysis to physiological/molecular based models for drug absorption, bioavailability, distribution
   and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
-
-
-* Skills
-- *Languages*:  Trilingial English, French, and Persian. Conversational Spanish and Italian.
-- *Programming*: C, C++, Python, Rust, SQL
-- *Activities*: football, hiking, photography, running
-
-* Projects
-- *Large-Scale Structure-from-Motion Pipeline* -- /Python, C++, PyTorch, AWS, PostgreSQL, Redis/
-  - Deploying and optimizing large computer vision end-to-end processing pipeline.
-  - Developing and optimizing code base to improve runtime and significantly reduce costs.
-  - Deep learning-based global image feature extraction and large-scale image retrieval.
-  - Custom graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
-- *Graph Database Analytics* /Scala, Java, Kafka, Cassandra/NoSQL/
-  - Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
-    - Building tools to explore and analyze graph data in a distributed system
-    - Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
-    - Dealing with 10^7 (eventually reaching 10^9) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
-    - Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf)
 
 * Education
 ** University of Michigan

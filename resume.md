@@ -1,57 +1,63 @@
 
 # Table of Contents
 
--   [Experience](#org3ee1369)
-    -   [Meta](#org9b2e72c)
-        -   [Research Engineer (IC6)](#orga186681)
-    -   [Scape Technologies](#orge4b1bd3)
-        -   [Machine Learning Engineer](#org08d2091)
-    -   [Deloitte Consulting LLP](#org97c3e53)
-        -   [Senior Consultant](#org1dbea12)
-    -   [US Food and Drug Administration](#orge234b2a)
-        -   [Quantitative Research Fellow](#org208db88)
--   [Skills](#org0f36a35)
--   [Projects](#org36f971f)
--   [Education](#org21eaa0a)
-    -   [University of Michigan](#org5c6bf68)
-        -   [PhD Pharmaceutical Sciences](#orge68c8a8)
-    -   [New York University](#orgb82b39a)
-        -   [MSc Computational Biology](#orgc4ac96d)
-    -   [University of Arizona](#org48b8039)
-        -   [BSc Mathematics](#org7ebbae3)
+-   [Technical Skills](#org926dddd)
+-   [Experience](#org5b10ec6)
+    -   [META](#org59b82d4)
+        -   [Research Engineer (IC6)](#org3443cae)
+    -   [SCAPE TECHNOLOGIES](#org823dcc2)
+        -   [Machine Learning Engineer](#orga97efcd)
+    -   [DELOITTE CONSULTING LLP](#orgead72f6)
+        -   [Senior Consultant](#orgcd4a1ad)
+    -   [US FOOD AND DRUG ADMINISTRATION](#org5fd004b)
+        -   [Quantitative Research Fellow](#org57024f3)
+-   [Education](#orgd027e06)
+    -   [University of Michigan](#org70abf73)
+        -   [PhD Pharmaceutical Sciences](#orgb7da125)
+    -   [New York University](#org85f6b91)
+        -   [MSc Computational Biology](#orgbf94ae6)
+    -   [University of Arizona](#orgbc45443)
+        -   [BSc Mathematics](#org057c9cf)
 
-Software engineer, scholar of gastrointestinal motility variation, builder robust & scalable sytems.
-
-US Citizen and UK ILR.
+Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
 
 
-<a id="org3ee1369"></a>
+<a id="org926dddd"></a>
+
+# Technical Skills
+
+-   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
+
+
+<a id="org5b10ec6"></a>
 
 # Experience
 
 
-<a id="org9b2e72c"></a>
+<a id="org59b82d4"></a>
 
-## Meta
+## META
 
 
-<a id="orga186681"></a>
+<a id="org3443cae"></a>
 
 ### Research Engineer (IC6)
 
 -   Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world
--   Creator and maintainer of geospatial ingestion and indexing of audio-video data from Project Aria (see <https://about.meta.com/uk/realitylabs/projectaria/>)
--   Enabled distributed computing to run large-scale optimization libraries on Meta infrastructure
--   Contributed to upgrading company-wide Rust libraries;
--   Promotion from IC5 to IC6 (July 2022) and three consecutive ratings of Exceeded Expectations during performance evaluation cycles
+-   **Geospatial Ingestion and Indexing** &#x2013; *Python, C++*
+    -   Creator and maintainer of the pipeline, enabling search and discovery of audio-video data from Project Aria (see <https://about.meta.com/uk/realitylabs/projectaria/>)
+-   **Distributed Computing** &#x2013; *Python, C++*
+    -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
+-   Contributed to upgrading company-wide libraries &#x2013; *Rust*
+-   Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
 
-<a id="orge4b1bd3"></a>
+<a id="org823dcc2"></a>
 
-## Scape Technologies
+## SCAPE TECHNOLOGIES
 
 
-<a id="org08d2091"></a>
+<a id="orga97efcd"></a>
 
 ### Machine Learning Engineer
 
@@ -60,14 +66,19 @@ US Citizen and UK ILR.
     their surroundings and augment the world around them. Cloud infrastructure allows ordinary mobile devices to enhance
     the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
     and artificial intelligence.
+-   **Large-Scale Structure-from-Motion Pipeline** &#x2013; *Python, C++, PyTorch, AWS, PostgreSQL, Redis*
+    -   Deploying and optimizing large computer vision end-to-end processing pipeline.
+    -   Developing and optimizing code base to improve runtime and significantly reduce costs.
+    -   Deep learning-based global image feature extraction and large-scale image retrieval.
+    -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="org97c3e53"></a>
+<a id="orgead72f6"></a>
 
-## Deloitte Consulting LLP
+## DELOITTE CONSULTING LLP
 
 
-<a id="org1dbea12"></a>
+<a id="orgcd4a1ad"></a>
 
 ### Senior Consultant
 
@@ -76,14 +87,21 @@ US Citizen and UK ILR.
     strategy and business process; assisting in development, collection, analysis,
     and reporting of data by leverage big data and machine learning technologies; serving as domain
     knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
+-   **Distributed Graph Database Analytics** &#x2013; *Scala, Java, Kafka, Cassandra/NoSQL*
+    -   Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
+        -   Migration of client data from on-prem to cloud (AWS)
+        -   Building tools to explore and analyze graph data in a distributed system
+        -   Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
+        -   Dealing with 10<sup>7</sup> (eventually reaching 10<sup>9</sup>) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
+        -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="orge234b2a"></a>
+<a id="org5fd004b"></a>
 
-## US Food and Drug Administration
+## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="org208db88"></a>
+<a id="org57024f3"></a>
 
 ### Quantitative Research Fellow
 
@@ -92,65 +110,39 @@ US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org0f36a35"></a>
-
-# Skills
-
--   **Languages**:  Trilingial English, French, and Persian. Conversational Spanish and Italian.
--   **Programming**: C, C++, Python, Rust, SQL
--   **Activities**: football, hiking, photography, running
-
-
-<a id="org36f971f"></a>
-
-# Projects
-
--   **Large-Scale Structure-from-Motion Pipeline** &#x2013; *Python, C++, PyTorch, AWS, PostgreSQL, Redis*
-    -   Deploying and optimizing large computer vision end-to-end processing pipeline.
-    -   Developing and optimizing code base to improve runtime and significantly reduce costs.
-    -   Deep learning-based global image feature extraction and large-scale image retrieval.
-    -   Custom graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
--   **Graph Database Analytics** *Scala, Java, Kafka, Cassandra/NoSQL*
-    -   Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
-        -   Building tools to explore and analyze graph data in a distributed system
-        -   Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
-        -   Dealing with 10<sup>7</sup> (eventually reaching 10<sup>9</sup>) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
-        -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
-
-
-<a id="org21eaa0a"></a>
+<a id="orgd027e06"></a>
 
 # Education
 
 
-<a id="org5c6bf68"></a>
+<a id="org70abf73"></a>
 
 ## University of Michigan
 
 
-<a id="orge68c8a8"></a>
+<a id="orgb7da125"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="orgb82b39a"></a>
+<a id="org85f6b91"></a>
 
 ## New York University
 
 
-<a id="orgc4ac96d"></a>
+<a id="orgbf94ae6"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org48b8039"></a>
+<a id="orgbc45443"></a>
 
 ## University of Arizona
 
 
-<a id="org7ebbae3"></a>
+<a id="org057c9cf"></a>
 
 ### BSc Mathematics
 
