@@ -10,7 +10,7 @@
 # eval: (bibtex-set-dialect 'biblatex)
 # End:
 
-Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
+Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 * Technical Skills
 -  Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 * Experience
@@ -40,7 +40,7 @@ Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
 :FROM: <2017-08-01>
 :TO:   <2020-01-26>
 :END:
-- Acquired by Facebook January 2020
+- *Acquired by Facebook January 2020*
 - Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
   their surroundings and augment the world around them. Cloud infrastructure allows ordinary mobile devices to enhance
   the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision

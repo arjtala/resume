@@ -1,45 +1,45 @@
 
 # Table of Contents
 
--   [Technical Skills](#org926dddd)
--   [Experience](#org5b10ec6)
-    -   [META](#org59b82d4)
-        -   [Research Engineer (IC6)](#org3443cae)
-    -   [SCAPE TECHNOLOGIES](#org823dcc2)
-        -   [Machine Learning Engineer](#orga97efcd)
-    -   [DELOITTE CONSULTING LLP](#orgead72f6)
-        -   [Senior Consultant](#orgcd4a1ad)
-    -   [US FOOD AND DRUG ADMINISTRATION](#org5fd004b)
-        -   [Quantitative Research Fellow](#org57024f3)
--   [Education](#orgd027e06)
-    -   [University of Michigan](#org70abf73)
-        -   [PhD Pharmaceutical Sciences](#orgb7da125)
-    -   [New York University](#org85f6b91)
-        -   [MSc Computational Biology](#orgbf94ae6)
-    -   [University of Arizona](#orgbc45443)
-        -   [BSc Mathematics](#org057c9cf)
+-   [Technical Skills](#orgdadb18b)
+-   [Experience](#orge384f0a)
+    -   [META](#org5d107fa)
+        -   [Research Engineer (IC6)](#org6ad7c1f)
+    -   [SCAPE TECHNOLOGIES](#org6b550f3)
+        -   [Machine Learning Engineer](#orgd48e0c4)
+    -   [DELOITTE CONSULTING LLP](#org3746072)
+        -   [Senior Consultant](#org5d34d8a)
+    -   [US FOOD AND DRUG ADMINISTRATION](#org991cbd2)
+        -   [Quantitative Research Fellow](#orgf7e46c5)
+-   [Education](#org77587b3)
+    -   [University of Michigan](#org1c7dc14)
+        -   [PhD Pharmaceutical Sciences](#org06004e7)
+    -   [New York University](#org8973d7a)
+        -   [MSc Computational Biology](#org8b85f2b)
+    -   [University of Arizona](#org434fa18)
+        -   [BSc Mathematics](#orgd2e633a)
 
-Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
+Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 
 
-<a id="org926dddd"></a>
+<a id="orgdadb18b"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="org5b10ec6"></a>
+<a id="orge384f0a"></a>
 
 # Experience
 
 
-<a id="org59b82d4"></a>
+<a id="org5d107fa"></a>
 
 ## META
 
 
-<a id="org3443cae"></a>
+<a id="org6ad7c1f"></a>
 
 ### Research Engineer (IC6)
 
@@ -52,16 +52,16 @@ Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
 -   Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
 
-<a id="org823dcc2"></a>
+<a id="org6b550f3"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="orga97efcd"></a>
+<a id="orgd48e0c4"></a>
 
 ### Machine Learning Engineer
 
--   Acquired by Facebook January 2020
+-   **Acquired by Facebook January 2020**
 -   Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
     their surroundings and augment the world around them. Cloud infrastructure allows ordinary mobile devices to enhance
     the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
@@ -73,12 +73,12 @@ Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="orgead72f6"></a>
+<a id="org3746072"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="orgcd4a1ad"></a>
+<a id="org5d34d8a"></a>
 
 ### Senior Consultant
 
@@ -96,12 +96,12 @@ Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="org5fd004b"></a>
+<a id="org991cbd2"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="org57024f3"></a>
+<a id="orgf7e46c5"></a>
 
 ### Quantitative Research Fellow
 
@@ -110,39 +110,39 @@ Software engineer, building robust & scalable sytems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="orgd027e06"></a>
+<a id="org77587b3"></a>
 
 # Education
 
 
-<a id="org70abf73"></a>
+<a id="org1c7dc14"></a>
 
 ## University of Michigan
 
 
-<a id="orgb7da125"></a>
+<a id="org06004e7"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org85f6b91"></a>
+<a id="org8973d7a"></a>
 
 ## New York University
 
 
-<a id="orgbf94ae6"></a>
+<a id="org8b85f2b"></a>
 
 ### MSc Computational Biology
 
 
-<a id="orgbc45443"></a>
+<a id="org434fa18"></a>
 
 ## University of Arizona
 
 
-<a id="org057c9cf"></a>
+<a id="orgd2e633a"></a>
 
 ### BSc Mathematics
 
