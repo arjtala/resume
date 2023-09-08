@@ -72,7 +72,7 @@
 		       (org-element-property :post-affiliated block)))))))
       (mapc (lambda (pos)
 	      (goto-char (nth 2 pos))
-	      (destructuring-bind
+	      (cl-destructuring-bind
 		  (beg end &rest ignore)
 		  (org-edit-src-find-region-and-lang)
 		(let ((contents-lines (split-string

@@ -10,15 +10,15 @@
 # eval: (bibtex-set-dialect 'biblatex)
 # End:
 
-Software engineer, building robust & scalable systems. US Citizen and UK ILR.
+Building robust & scalable data systems. US Citizen and UK ILR.
 * Technical Skills
 -  Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 * Experience
 ** META
 :PROPERTIES:
-:LOCATION: London, UK
+:LOCATION: Burlingame, CA
 :END:
-*** Research Engineer (IC6)
+*** Staff Engineer
 :PROPERTIES:
 :FROM: <2020-01-27>
 :TO: Current
@@ -29,7 +29,6 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 - *Distributed Computing* -- /Python, C++/
   - Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 - Contributed to upgrading company-wide libraries -- /Rust/
-- Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
 ** SCAPE TECHNOLOGIES
 :PROPERTIES:

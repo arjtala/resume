@@ -122,7 +122,7 @@ contains a list of strings to be passed as options ot
 
 (defun org-bibtex-citation-p (object)
   "Non-nil when OBJECT is a citation."
-  (case (org-element-type object)
+  (cl-case (org-element-type object)
     (link (equal (org-element-property :type object) "cite"))
     (latex-fragment
      (string-match "\\`\\\\cite{" (org-element-property :value object)))))
