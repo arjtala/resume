@@ -10,7 +10,7 @@
 # eval: (bibtex-set-dialect 'biblatex)
 # End:
 
-Software engineer, building robust & scalable systems. US Citizen and UK ILR.
+Building robust & scalable data systems. US Citizen and UK ILR.
 * Technical Skills
 -  Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 * Experience

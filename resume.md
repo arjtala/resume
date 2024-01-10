@@ -1,45 +1,45 @@
 
 # Table of Contents
 
--   [Technical Skills](#orgc8f6db9)
--   [Experience](#org481984a)
-    -   [META](#org804cc99)
-        -   [AI Research - Data Lead  (IC6)](#org6ca1558)
-    -   [SCAPE TECHNOLOGIES](#org7451a67)
-        -   [Machine Learning Engineer](#org4ca6b08)
-    -   [DELOITTE CONSULTING LLP](#org27438e5)
-        -   [Senior Consultant](#orga3abda3)
-    -   [US FOOD AND DRUG ADMINISTRATION](#org00bfcb9)
-        -   [Quantitative Research Fellow](#orgb23d0eb)
--   [Education](#org271fc18)
-    -   [University of Michigan](#org6324e9c)
-        -   [PhD Pharmaceutical Sciences](#org8b573b4)
-    -   [New York University](#orgfb15de6)
-        -   [MSc Computational Biology](#orgccbd2fb)
-    -   [University of Arizona](#org92a9843)
-        -   [BSc Mathematics](#org6f6d83e)
+-   [Technical Skills](#org3b389ca)
+-   [Experience](#orga01609d)
+    -   [META](#orgcc7deda)
+        -   [AI Research - Data Lead  (IC6)](#org6f916cb)
+    -   [SCAPE TECHNOLOGIES](#org9ac4391)
+        -   [Machine Learning Engineer](#org66807cc)
+    -   [DELOITTE CONSULTING LLP](#org9b0b44b)
+        -   [Senior Consultant](#org1fcdbe9)
+    -   [US FOOD AND DRUG ADMINISTRATION](#org126fdc6)
+        -   [Quantitative Research Fellow](#orgc625280)
+-   [Education](#org6200827)
+    -   [University of Michigan](#orga1c2d93)
+        -   [PhD Pharmaceutical Sciences](#org2bab1f4)
+    -   [New York University](#org8ee3a90)
+        -   [MSc Computational Biology](#orgff4d8c6)
+    -   [University of Arizona](#orgd9e6b24)
+        -   [BSc Mathematics](#org380f239)
 
-Software engineer, building robust & scalable systems. US Citizen and UK ILR.
+Building robust & scalable data systems. US Citizen and UK ILR.
 
 
-<a id="orgc8f6db9"></a>
+<a id="org3b389ca"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="org481984a"></a>
+<a id="orga01609d"></a>
 
 # Experience
 
 
-<a id="org804cc99"></a>
+<a id="orgcc7deda"></a>
 
 ## META
 
 
-<a id="org6ca1558"></a>
+<a id="org6f916cb"></a>
 
 ### AI Research - Data Lead  (IC6)
 
@@ -60,12 +60,12 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
     -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 
 
-<a id="org7451a67"></a>
+<a id="org9ac4391"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="org4ca6b08"></a>
+<a id="org66807cc"></a>
 
 ### Machine Learning Engineer
 
@@ -81,12 +81,12 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="org27438e5"></a>
+<a id="org9b0b44b"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="orga3abda3"></a>
+<a id="org1fcdbe9"></a>
 
 ### Senior Consultant
 
@@ -101,12 +101,12 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="org00bfcb9"></a>
+<a id="org126fdc6"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="orgb23d0eb"></a>
+<a id="orgc625280"></a>
 
 ### Quantitative Research Fellow
 
@@ -115,39 +115,39 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org271fc18"></a>
+<a id="org6200827"></a>
 
 # Education
 
 
-<a id="org6324e9c"></a>
+<a id="orga1c2d93"></a>
 
 ## University of Michigan
 
 
-<a id="org8b573b4"></a>
+<a id="org2bab1f4"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="orgfb15de6"></a>
+<a id="org8ee3a90"></a>
 
 ## New York University
 
 
-<a id="orgccbd2fb"></a>
+<a id="orgff4d8c6"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org92a9843"></a>
+<a id="orgd9e6b24"></a>
 
 ## University of Arizona
 
 
-<a id="org6f6d83e"></a>
+<a id="org380f239"></a>
 
 ### BSc Mathematics
 

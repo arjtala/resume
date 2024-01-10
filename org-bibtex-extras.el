@@ -117,11 +117,11 @@ For example, to point to your `obe-bibtex-file' use the following.
 (defun obe-meta-to-json (meta &optional fields)
   "Turn a list of META data from citations into a string of json."
   (let ((counter 1) nodes links)
-    (flet ((id (it) (position it nodes :test #'string= :key #'car))
+    (cl-flet ((id (it) (position it nodes :test #'string= :key #'car))
 	   (col (k) (mapcar (lambda (r) (cdr (assoc k r))) meta))
 	   (add (lst)
 		(dolist (el lst) (push (cons el counter) nodes))
-		(incf counter)))
+		(cl-incf counter)))
       ;; build the nodes of the graph
       (add (col :title))
       (add (remove-if (lambda (author) (string-match "others" author))
