@@ -1,45 +1,45 @@
 
 # Table of Contents
 
--   [Technical Skills](#orga7ba65d)
--   [Experience](#org25fdd1b)
-    -   [META](#org74d79fe)
-        -   [AI Research - Data Lead  (IC6)](#orga64cd4d)
-    -   [SCAPE TECHNOLOGIES](#org25a3349)
-        -   [Machine Learning Engineer](#org1008486)
-    -   [DELOITTE CONSULTING LLP](#orga6de7be)
-        -   [Senior Consultant](#orga060d5a)
-    -   [US FOOD AND DRUG ADMINISTRATION](#orgf943c96)
-        -   [Quantitative Research Fellow](#org4ea7ce6)
--   [Education](#orgbf37ce2)
-    -   [University of Michigan](#orgfc7491b)
-        -   [PhD Pharmaceutical Sciences](#org5c43950)
-    -   [New York University](#org513380b)
-        -   [MSc Computational Biology](#org502fd14)
-    -   [University of Arizona](#orgb5a7737)
-        -   [BSc Mathematics](#orgda05090)
+-   [Technical Skills](#orgbec1e69)
+-   [Experience](#orgf005196)
+    -   [META](#org481eaf3)
+        -   [AI Research - Data Lead  (IC6)](#org78a2de0)
+    -   [SCAPE TECHNOLOGIES](#orgbbab119)
+        -   [Machine Learning Engineer](#orgbf8f0e9)
+    -   [DELOITTE CONSULTING LLP](#orgcb59f9f)
+        -   [Senior Consultant](#orgf25b26a)
+    -   [US FOOD AND DRUG ADMINISTRATION](#orgeed7096)
+        -   [Quantitative Research Fellow](#orgc37a526)
+-   [Education](#org3a9817e)
+    -   [University of Michigan](#org30563ee)
+        -   [PhD Pharmaceutical Sciences](#orgf93b843)
+    -   [New York University](#orga834967)
+        -   [MSc Computational Biology](#org187d48e)
+    -   [University of Arizona](#org4db7ace)
+        -   [BSc Mathematics](#orga1e9e51)
 
 Building robust & scalable data systems. US Citizen and UK ILR.
 
 
-<a id="orga7ba65d"></a>
+<a id="orgbec1e69"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="org25fdd1b"></a>
+<a id="orgf005196"></a>
 
 # Experience
 
 
-<a id="org74d79fe"></a>
+<a id="org481eaf3"></a>
 
 ## META
 
 
-<a id="orga64cd4d"></a>
+<a id="org78a2de0"></a>
 
 ### AI Research - Data Lead  (IC6)
 
@@ -60,12 +60,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 
 
-<a id="org25a3349"></a>
+<a id="orgbbab119"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="org1008486"></a>
+<a id="orgbf8f0e9"></a>
 
 ### Machine Learning Engineer
 
@@ -81,12 +81,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="orga6de7be"></a>
+<a id="orgcb59f9f"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="orga060d5a"></a>
+<a id="orgf25b26a"></a>
 
 ### Senior Consultant
 
@@ -101,12 +101,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="orgf943c96"></a>
+<a id="orgeed7096"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="org4ea7ce6"></a>
+<a id="orgc37a526"></a>
 
 ### Quantitative Research Fellow
 
@@ -115,39 +115,39 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="orgbf37ce2"></a>
+<a id="org3a9817e"></a>
 
 # Education
 
 
-<a id="orgfc7491b"></a>
+<a id="org30563ee"></a>
 
 ## University of Michigan
 
 
-<a id="org5c43950"></a>
+<a id="orgf93b843"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org513380b"></a>
+<a id="orga834967"></a>
 
 ## New York University
 
 
-<a id="org502fd14"></a>
+<a id="org187d48e"></a>
 
 ### MSc Computational Biology
 
 
-<a id="orgb5a7737"></a>
+<a id="org4db7ace"></a>
 
 ## University of Arizona
 
 
-<a id="orgda05090"></a>
+<a id="orga1e9e51"></a>
 
 ### BSc Mathematics
 
@@ -170,28 +170,6 @@ J.&nbsp;Engel et&nbsp;al.
 [&nbsp;<a href="refs_bib.html#Engel2023">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.48550/arXiv.2308.13561">DOI</a>&nbsp;| 
 <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230813561E/">http</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="Hens2017a">Hens(2017)</a>]
-</td>
-<td class="bibtexitem">
-B.&nbsp;e.&nbsp;a. Hens.
- Exploring gastrointestinal variables affecting drug and formulation
-  behavior: Methodologies, challenges and opportunities.
- <em>International Journal of Pharmaceutics</em>, 5190
-  (1-2):0 79--97, mar 2017.
- ISSN 03785173.
- 10.1016/j.ijpharm.2016.11.063.
- URL
-  <a href="http://linkinghub.elsevier.com/retrieve/pii/S0378517316311267">http://linkinghub.elsevier.com/retrieve/pii/S0378517316311267</a>.
-[&nbsp;<a href="refs_bib.html#Hens2017a">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.ijpharm.2016.11.063">DOI</a>&nbsp;| 
-<a href="http://linkinghub.elsevier.com/retrieve/pii/S0378517316311267">http</a>&nbsp;]
 
 </td>
 </tr>
