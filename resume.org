@@ -16,20 +16,27 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 * Experience
 ** META
 :PROPERTIES:
-:LOCATION: London, UK
+:LOCATION: Bay Area, CA
 :END:
-*** Research Engineer (IC6)
+*** AI Research - Data Lead  (IC6)
 :PROPERTIES:
 :FROM: <2020-01-27>
 :TO: Current
 :END:
-- Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world
+
+/FAIR/
+- Advancing the state-of-the-art in artificial intelligence through open research for the benefit of all.
+- Specializing on data pipelines and LLMs
+- https://ai.meta.com/research/
+
+/RealityLabs Research/
+- Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world via Project Aria (see https://about.meta.com/uk/realitylabs/projectaria/)
+- *Semantic Search* -- /Python/
+  - Enable discoverabilty and reusability of multi-modal (text, audio, video, images) datasets by developing a unified search API and powering semantic queries through the use of large transformer (e.g. CLIP, ImageBind, Whisper)  models to extract embeddigns
 - *Geospatial Ingestion and Indexing* -- /Python, C++/
-  - Creator and maintainer of the pipeline, enabling search and discovery of audio-video data from Project Aria (see https://about.meta.com/uk/realitylabs/projectaria/)
+  - Creator and maintainer of pipeline, enabling geographic search for raw data 
 - *Distributed Computing* -- /Python, C++/
   - Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
-- Contributed to upgrading company-wide libraries -- /Rust/
-- Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
 ** SCAPE TECHNOLOGIES
 :PROPERTIES:
@@ -62,15 +69,12 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 :END:
 - Mission Analytics in Business Model and Transformation/Strategy and Operations.
 - Supporting senior government executives in the development of the organization's
-  strategy and business process; assisting in development, collection, analysis,
-  and reporting of data by leverage big data and machine learning technologies; serving as domain
-  knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
+  strategy and business process
 - *Distributed Graph Database Analytics* -- /Scala, Java, Kafka, Cassandra/NoSQL/
   - Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
     - Migration of client data from on-prem to cloud (AWS)
     - Building tools to explore and analyze graph data in a distributed system
     - Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
-    - Dealing with 10^7 (eventually reaching 10^9) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
     - Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf)
 
 ** US FOOD AND DRUG ADMINISTRATION

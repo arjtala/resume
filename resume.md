@@ -1,63 +1,71 @@
 
 # Table of Contents
 
--   [Technical Skills](#orgdadb18b)
--   [Experience](#orge384f0a)
-    -   [META](#org5d107fa)
-        -   [Research Engineer (IC6)](#org6ad7c1f)
-    -   [SCAPE TECHNOLOGIES](#org6b550f3)
-        -   [Machine Learning Engineer](#orgd48e0c4)
-    -   [DELOITTE CONSULTING LLP](#org3746072)
-        -   [Senior Consultant](#org5d34d8a)
-    -   [US FOOD AND DRUG ADMINISTRATION](#org991cbd2)
-        -   [Quantitative Research Fellow](#orgf7e46c5)
--   [Education](#org77587b3)
-    -   [University of Michigan](#org1c7dc14)
-        -   [PhD Pharmaceutical Sciences](#org06004e7)
-    -   [New York University](#org8973d7a)
-        -   [MSc Computational Biology](#org8b85f2b)
-    -   [University of Arizona](#org434fa18)
-        -   [BSc Mathematics](#orgd2e633a)
+-   [Technical Skills](#orgc8f6db9)
+-   [Experience](#org481984a)
+    -   [META](#org804cc99)
+        -   [AI Research - Data Lead  (IC6)](#org6ca1558)
+    -   [SCAPE TECHNOLOGIES](#org7451a67)
+        -   [Machine Learning Engineer](#org4ca6b08)
+    -   [DELOITTE CONSULTING LLP](#org27438e5)
+        -   [Senior Consultant](#orga3abda3)
+    -   [US FOOD AND DRUG ADMINISTRATION](#org00bfcb9)
+        -   [Quantitative Research Fellow](#orgb23d0eb)
+-   [Education](#org271fc18)
+    -   [University of Michigan](#org6324e9c)
+        -   [PhD Pharmaceutical Sciences](#org8b573b4)
+    -   [New York University](#orgfb15de6)
+        -   [MSc Computational Biology](#orgccbd2fb)
+    -   [University of Arizona](#org92a9843)
+        -   [BSc Mathematics](#org6f6d83e)
 
 Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 
 
-<a id="orgdadb18b"></a>
+<a id="orgc8f6db9"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="orge384f0a"></a>
+<a id="org481984a"></a>
 
 # Experience
 
 
-<a id="org5d107fa"></a>
+<a id="org804cc99"></a>
 
 ## META
 
 
-<a id="org6ad7c1f"></a>
+<a id="org6ca1558"></a>
 
-### Research Engineer (IC6)
+### AI Research - Data Lead  (IC6)
 
--   Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world
+*FAIR*
+
+-   Advancing the state-of-the-art in artificial intelligence through open research for the benefit of all.
+-   Specializing on data pipelines and LLMs
+-   <https://ai.meta.com/research/>
+
+*RealityLabs Research*
+
+-   Developing the next generation of computation in Reality Labs Research, building the digital interface for the physical world via Project Aria (see <https://about.meta.com/uk/realitylabs/projectaria/>)
+-   **Semantic Search** &#x2013; *Python*
+    -   Enable discoverabilty and reusability of multi-modal (text, audio, video, images) datasets by developing a unified search API and powering semantic queries through the use of large transformer (e.g. CLIP, ImageBind, Whisper)  models to extract embeddigns
 -   **Geospatial Ingestion and Indexing** &#x2013; *Python, C++*
-    -   Creator and maintainer of the pipeline, enabling search and discovery of audio-video data from Project Aria (see <https://about.meta.com/uk/realitylabs/projectaria/>)
+    -   Creator and maintainer of pipeline, enabling geographic search for raw data
 -   **Distributed Computing** &#x2013; *Python, C++*
     -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
--   Contributed to upgrading company-wide libraries &#x2013; *Rust*
--   Promotion from IC5 to IC6 (July 2022) and 3 consecutive performance ratings of Exceeded Expectations
 
 
-<a id="org6b550f3"></a>
+<a id="org7451a67"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="orgd48e0c4"></a>
+<a id="org4ca6b08"></a>
 
 ### Machine Learning Engineer
 
@@ -73,35 +81,32 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="org3746072"></a>
+<a id="org27438e5"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="org5d34d8a"></a>
+<a id="orga3abda3"></a>
 
 ### Senior Consultant
 
 -   Mission Analytics in Business Model and Transformation/Strategy and Operations.
 -   Supporting senior government executives in the development of the organization&rsquo;s
-    strategy and business process; assisting in development, collection, analysis,
-    and reporting of data by leverage big data and machine learning technologies; serving as domain
-    knowledgeable resource in advising the Deloitte team and client on tools and techniques to improve workflow.
+    strategy and business process
 -   **Distributed Graph Database Analytics** &#x2013; *Scala, Java, Kafka, Cassandra/NoSQL*
     -   Leveraging Cassandra and Spark for large-scale graph networks and analyses including:
         -   Migration of client data from on-prem to cloud (AWS)
         -   Building tools to explore and analyze graph data in a distributed system
         -   Developing machine learning algorithms and automation of real-time entity resolution (data disambiguation) at scale.
-        -   Dealing with 10<sup>7</sup> (eventually reaching 10<sup>9</sup>) daily transactions utilizing Kafka and Spark Streaming to ingest massive amounts of data through an ETL pipeline.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="org991cbd2"></a>
+<a id="org00bfcb9"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="orgf7e46c5"></a>
+<a id="orgb23d0eb"></a>
 
 ### Quantitative Research Fellow
 
@@ -110,39 +115,39 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org77587b3"></a>
+<a id="org271fc18"></a>
 
 # Education
 
 
-<a id="org1c7dc14"></a>
+<a id="org6324e9c"></a>
 
 ## University of Michigan
 
 
-<a id="org06004e7"></a>
+<a id="org8b573b4"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org8973d7a"></a>
+<a id="orgfb15de6"></a>
 
 ## New York University
 
 
-<a id="org8b85f2b"></a>
+<a id="orgccbd2fb"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org434fa18"></a>
+<a id="org92a9843"></a>
 
 ## University of Arizona
 
 
-<a id="orgd2e633a"></a>
+<a id="org6f6d83e"></a>
 
 ### BSc Mathematics
 
@@ -154,18 +159,32 @@ Software engineer, building robust & scalable systems. US Citizen and UK ILR.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Hens2017a">Hens et&nbsp;al.(2017a)Hens, Corsetti, Spiller, Marciani,
-  Vanuytsel, Tack, Talattof, Amidon, Koziolek, Weitschies, Wilson, Bennink,
-  Brouwers, and Augustijns</a>]
+[<a name="Engel2023">et&nbsp;al.(2023)</a>]
 </td>
 <td class="bibtexitem">
-B.&nbsp;Hens, M.&nbsp;Corsetti, R.&nbsp;Spiller, L.&nbsp;Marciani, T.&nbsp;Vanuytsel, J.&nbsp;Tack,
-  A.&nbsp;Talattof, G.&nbsp;L. Amidon, M.&nbsp;Koziolek, W.&nbsp;Weitschies, C.&nbsp;G. Wilson, R.&nbsp;J.
-  Bennink, J.&nbsp;Brouwers, and P.&nbsp;Augustijns.
+J.&nbsp;E. et&nbsp;al.
+ Project aria: A new tool for egocentric multi-modal ai research.
+ <em>arXiv</em>, page 2308.13561, aug 2023.
+ 10.48550/arXiv.2308.13561.
+ URL <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230813561E/">https://ui.adsabs.harvard.edu/abs/2023arXiv230813561E/</a>.
+[&nbsp;<a href="refs_bib.html#Engel2023">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.48550/arXiv.2308.13561">DOI</a>&nbsp;| 
+<a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230813561E/">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Hens2017a">Hens(2017)</a>]
+</td>
+<td class="bibtexitem">
+B.&nbsp;e.&nbsp;a. Hens.
  Exploring gastrointestinal variables affecting drug and formulation
   behavior: Methodologies, challenges and opportunities.
  <em>International Journal of Pharmaceutics</em>, 5190
-  (1-2):0 79--97, mar 2017a.
+  (1-2):0 79--97, mar 2017.
  ISSN 03785173.
  10.1016/j.ijpharm.2016.11.063.
  URL
@@ -180,62 +199,10 @@ B.&nbsp;Hens, M.&nbsp;Corsetti, R.&nbsp;Spiller, L.&nbsp;Marciani, T.&nbsp;Vanuy
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Hens2017">Hens et&nbsp;al.(2017b)Hens, Tsume, Bermejo, Paixao,
-  Koenigsknecht, Baker, Hasler, Lionberger, Fan, Dickens, Shedden, Wen,
-  Wysocki, Loebenberg, Lee, Frances, Amidon, Yu, Benninghoff, Salehi, Talattof,
-  Sun, and Amidon</a>]
+[<a name="lacount2020modeling">LaCount(2020)</a>]
 </td>
 <td class="bibtexitem">
-B.&nbsp;Hens, Y.&nbsp;Tsume, M.&nbsp;Bermejo, P.&nbsp;Paixao, M.&nbsp;J. Koenigsknecht, J.&nbsp;R. Baker,
-  W.&nbsp;L. Hasler, R.&nbsp;Lionberger, J.&nbsp;Fan, J.&nbsp;Dickens, K.&nbsp;Shedden, B.&nbsp;Wen,
-  J.&nbsp;Wysocki, R.&nbsp;Loebenberg, A.&nbsp;Lee, A.&nbsp;Frances, G.&nbsp;Amidon, A.&nbsp;Yu,
-  G.&nbsp;Benninghoff, N.&nbsp;Salehi, A.&nbsp;Talattof, D.&nbsp;Sun, and G.&nbsp;L. Amidon.
- Low Buffer Capacity and Alternating Motility along the Human
-  Gastrointestinal Tract: Implications for in Vivo Dissolution and Absorption
-  of Ionizable Drugs.
- <em>Molecular Pharmaceutics</em>, 140 (12):0
-  4281--4294, dec 2017b.
- ISSN 1543-8384.
- 10.1021/acs.molpharmaceut.7b00426.
- URL <a href="http://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00426">http://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00426</a>.
-[&nbsp;<a href="refs_bib.html#Hens2017">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1021/acs.molpharmaceut.7b00426">DOI</a>&nbsp;| 
-<a href="http://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00426">http</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="Hens2018">Hens et&nbsp;al.(2018)Hens, Talattof, Paix&atilde;o, Bermejo, Tsume,
-  L&ouml;benberg, and Amidon</a>]
-</td>
-<td class="bibtexitem">
-B.&nbsp;Hens, A.&nbsp;Talattof, P.&nbsp;Paix&atilde;o, M.&nbsp;Bermejo, Y.&nbsp;Tsume,
-  R.&nbsp;L&ouml;benberg, and G.&nbsp;L. Amidon.
- Measuring the Impact of Gastrointestinal Variables on the Systemic
-  Outcome of Two Suspensions of Posaconazole by a PBPK Model.
- <em>The AAPS Journal</em>, 200 (3):0 57, may 2018.
- ISSN 1550-7416.
- 10.1208/s12248-018-0217-6.
- URL <a href="http://link.springer.com/10.1208/s12248-018-0217-6">http://link.springer.com/10.1208/s12248-018-0217-6</a>.
-[&nbsp;<a href="refs_bib.html#Hens2018">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1208/s12248-018-0217-6">DOI</a>&nbsp;| 
-<a href="http://link.springer.com/10.1208/s12248-018-0217-6">http</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="lacount2020modeling">LaCount et&nbsp;al.(2020)LaCount, Zhang, Hao, Ghosh, Raney, Talattof,
-  Kasting, and Li</a>]
-</td>
-<td class="bibtexitem">
-T.&nbsp;D. LaCount, Q.&nbsp;Zhang, J.&nbsp;Hao, P.&nbsp;Ghosh, S.&nbsp;G. Raney, A.&nbsp;Talattof, G.&nbsp;B.
-  Kasting, and S.&nbsp;K. Li.
+T.&nbsp;D. e.&nbsp;a. LaCount.
  Modeling temperature-dependent dermal absorption and clearance for
   transdermal and topical drug applications.
  <em>The AAPS journal</em>, 22:0 1--13, may 2020.
@@ -244,35 +211,6 @@ T.&nbsp;D. LaCount, Q.&nbsp;Zhang, J.&nbsp;Hao, P.&nbsp;Ghosh, S.&nbsp;G. Raney,
 [&nbsp;<a href="refs_bib.html#lacount2020modeling">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1208/s12248-020-00451-2">DOI</a>&nbsp;| 
 <a href="https://doi.org/10.1208/s12248-020-00451-2">http</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="Paixao2018">Paix&atilde;o et&nbsp;al.(2018)Paix&atilde;o, Bermejo, Hens, Tsume, Dickens,
-  Shedden, Salehi, Koenigsknecht, Baker, Hasler, Lionberger, Fan, Wysocki, Wen,
-  Lee, Frances, Amidon, Yu, Benninghoff, L&ouml;benberg, Talattof, Sun, and
-  Amidon</a>]
-</td>
-<td class="bibtexitem">
-P.&nbsp;Paix&atilde;o, M.&nbsp;Bermejo, B.&nbsp;Hens, Y.&nbsp;Tsume, J.&nbsp;Dickens, K.&nbsp;Shedden,
-  N.&nbsp;Salehi, M.&nbsp;J. Koenigsknecht, J.&nbsp;R. Baker, W.&nbsp;L. Hasler, R.&nbsp;Lionberger,
-  J.&nbsp;Fan, J.&nbsp;Wysocki, B.&nbsp;Wen, A.&nbsp;Lee, A.&nbsp;Frances, G.&nbsp;E. Amidon, A.&nbsp;Yu,
-  G.&nbsp;Benninghoff, R.&nbsp;L&ouml;benberg, A.&nbsp;Talattof, D.&nbsp;Sun, and G.&nbsp;L. Amidon.
- Gastric emptying and intestinal appearance of nonabsorbable drugs
-  phenol red and paromomycin in human subjects: A multi-compartment stomach
-  approach.
- <em>European Journal of Pharmaceutics and Biopharmaceutics</em>,
-  129:0 162--174, aug 2018.
- ISSN 09396411.
- 10.1016/j.ejpb.2018.05.033.
- URL
-  <a href="https://linkinghub.elsevier.com/retrieve/pii/S0939641118304041">https://linkinghub.elsevier.com/retrieve/pii/S0939641118304041</a>.
-[&nbsp;<a href="refs_bib.html#Paixao2018">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.ejpb.2018.05.033">DOI</a>&nbsp;| 
-<a href="https://linkinghub.elsevier.com/retrieve/pii/S0939641118304041">http</a>&nbsp;]
 
 </td>
 </tr>
