@@ -1,45 +1,45 @@
 
 # Table of Contents
 
--   [Technical Skills](#org3b389ca)
--   [Experience](#orga01609d)
-    -   [META](#orgcc7deda)
-        -   [AI Research - Data Lead  (IC6)](#org6f916cb)
-    -   [SCAPE TECHNOLOGIES](#org9ac4391)
-        -   [Machine Learning Engineer](#org66807cc)
-    -   [DELOITTE CONSULTING LLP](#org9b0b44b)
-        -   [Senior Consultant](#org1fcdbe9)
-    -   [US FOOD AND DRUG ADMINISTRATION](#org126fdc6)
-        -   [Quantitative Research Fellow](#orgc625280)
--   [Education](#org6200827)
-    -   [University of Michigan](#orga1c2d93)
-        -   [PhD Pharmaceutical Sciences](#org2bab1f4)
-    -   [New York University](#org8ee3a90)
-        -   [MSc Computational Biology](#orgff4d8c6)
-    -   [University of Arizona](#orgd9e6b24)
-        -   [BSc Mathematics](#org380f239)
+-   [Technical Skills](#orga7ba65d)
+-   [Experience](#org25fdd1b)
+    -   [META](#org74d79fe)
+        -   [AI Research - Data Lead  (IC6)](#orga64cd4d)
+    -   [SCAPE TECHNOLOGIES](#org25a3349)
+        -   [Machine Learning Engineer](#org1008486)
+    -   [DELOITTE CONSULTING LLP](#orga6de7be)
+        -   [Senior Consultant](#orga060d5a)
+    -   [US FOOD AND DRUG ADMINISTRATION](#orgf943c96)
+        -   [Quantitative Research Fellow](#org4ea7ce6)
+-   [Education](#orgbf37ce2)
+    -   [University of Michigan](#orgfc7491b)
+        -   [PhD Pharmaceutical Sciences](#org5c43950)
+    -   [New York University](#org513380b)
+        -   [MSc Computational Biology](#org502fd14)
+    -   [University of Arizona](#orgb5a7737)
+        -   [BSc Mathematics](#orgda05090)
 
 Building robust & scalable data systems. US Citizen and UK ILR.
 
 
-<a id="org3b389ca"></a>
+<a id="orga7ba65d"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="orga01609d"></a>
+<a id="org25fdd1b"></a>
 
 # Experience
 
 
-<a id="orgcc7deda"></a>
+<a id="org74d79fe"></a>
 
 ## META
 
 
-<a id="org6f916cb"></a>
+<a id="orga64cd4d"></a>
 
 ### AI Research - Data Lead  (IC6)
 
@@ -60,12 +60,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 
 
-<a id="org9ac4391"></a>
+<a id="org25a3349"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="org66807cc"></a>
+<a id="org1008486"></a>
 
 ### Machine Learning Engineer
 
@@ -81,12 +81,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="org9b0b44b"></a>
+<a id="orga6de7be"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="org1fcdbe9"></a>
+<a id="orga060d5a"></a>
 
 ### Senior Consultant
 
@@ -101,12 +101,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="org126fdc6"></a>
+<a id="orgf943c96"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="orgc625280"></a>
+<a id="org4ea7ce6"></a>
 
 ### Quantitative Research Fellow
 
@@ -115,39 +115,39 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org6200827"></a>
+<a id="orgbf37ce2"></a>
 
 # Education
 
 
-<a id="orga1c2d93"></a>
+<a id="orgfc7491b"></a>
 
 ## University of Michigan
 
 
-<a id="org2bab1f4"></a>
+<a id="org5c43950"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="org8ee3a90"></a>
+<a id="org513380b"></a>
 
 ## New York University
 
 
-<a id="orgff4d8c6"></a>
+<a id="org502fd14"></a>
 
 ### MSc Computational Biology
 
 
-<a id="orgd9e6b24"></a>
+<a id="orgb5a7737"></a>
 
 ## University of Arizona
 
 
-<a id="org380f239"></a>
+<a id="orgda05090"></a>
 
 ### BSc Mathematics
 
@@ -159,10 +159,10 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Engel2023">et&nbsp;al.(2023)</a>]
+[<a name="Engel2023">Engel et&nbsp;al.(2023)</a>]
 </td>
 <td class="bibtexitem">
-J.&nbsp;E. et&nbsp;al.
+J.&nbsp;Engel et&nbsp;al.
  Project aria: A new tool for egocentric multi-modal ai research.
  <em>arXiv</em>, page 2308.13561, aug 2023.
  10.48550/arXiv.2308.13561.
@@ -199,10 +199,10 @@ B.&nbsp;e.&nbsp;a. Hens.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="lacount2020modeling">LaCount(2020)</a>]
+[<a name="lacount2020modeling">LaCount et&nbsp;al.(2020)</a>]
 </td>
 <td class="bibtexitem">
-T.&nbsp;D. e.&nbsp;a. LaCount.
+T.&nbsp;D. LaCount et&nbsp;al.
  Modeling temperature-dependent dermal absorption and clearance for
   transdermal and topical drug applications.
  <em>The AAPS journal</em>, 22:0 1--13, may 2020.
