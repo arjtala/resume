@@ -1,45 +1,45 @@
 
 # Table of Contents
 
--   [Technical Skills](#orgbec1e69)
--   [Experience](#orgf005196)
-    -   [META](#org481eaf3)
-        -   [AI Research - Data Lead  (IC6)](#org78a2de0)
-    -   [SCAPE TECHNOLOGIES](#orgbbab119)
-        -   [Machine Learning Engineer](#orgbf8f0e9)
-    -   [DELOITTE CONSULTING LLP](#orgcb59f9f)
-        -   [Senior Consultant](#orgf25b26a)
-    -   [US FOOD AND DRUG ADMINISTRATION](#orgeed7096)
-        -   [Quantitative Research Fellow](#orgc37a526)
--   [Education](#org3a9817e)
-    -   [University of Michigan](#org30563ee)
-        -   [PhD Pharmaceutical Sciences](#orgf93b843)
-    -   [New York University](#orga834967)
-        -   [MSc Computational Biology](#org187d48e)
-    -   [University of Arizona](#org4db7ace)
-        -   [BSc Mathematics](#orga1e9e51)
+-   [Technical Skills](#orgbe0461f)
+-   [Experience](#org1cf1dcb)
+    -   [META](#org323ff25)
+        -   [AI Research - Data Lead  (IC6)](#orgede18ea)
+    -   [SCAPE TECHNOLOGIES](#org82a12b2)
+        -   [Machine Learning Engineer](#orgd588676)
+    -   [DELOITTE CONSULTING LLP](#org197de00)
+        -   [Senior Consultant](#orgd74f420)
+    -   [US FOOD AND DRUG ADMINISTRATION](#orgc97e89e)
+        -   [Quantitative Research Fellow](#org0c613cf)
+-   [Education](#org4657538)
+    -   [University of Michigan](#orgd0553c5)
+        -   [PhD Pharmaceutical Sciences](#orgf18632f)
+    -   [New York University](#org635d9c5)
+        -   [MSc Computational Biology](#orgf5c6f0c)
+    -   [University of Arizona](#org807ec59)
+        -   [BSc Mathematics](#orgbdc8ba6)
 
 Building robust & scalable data systems. US Citizen and UK ILR.
 
 
-<a id="orgbec1e69"></a>
+<a id="orgbe0461f"></a>
 
 # Technical Skills
 
 -   Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
 
 
-<a id="orgf005196"></a>
+<a id="org1cf1dcb"></a>
 
 # Experience
 
 
-<a id="org481eaf3"></a>
+<a id="org323ff25"></a>
 
 ## META
 
 
-<a id="org78a2de0"></a>
+<a id="orgede18ea"></a>
 
 ### AI Research - Data Lead  (IC6)
 
@@ -60,12 +60,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 
 
-<a id="orgbbab119"></a>
+<a id="org82a12b2"></a>
 
 ## SCAPE TECHNOLOGIES
 
 
-<a id="orgbf8f0e9"></a>
+<a id="orgd588676"></a>
 
 ### Machine Learning Engineer
 
@@ -81,12 +81,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     -   Custom cloud-based graph database deployment for geospatial image data used in pipeline to build 3D geometric models.
 
 
-<a id="orgcb59f9f"></a>
+<a id="org197de00"></a>
 
 ## DELOITTE CONSULTING LLP
 
 
-<a id="orgf25b26a"></a>
+<a id="orgd74f420"></a>
 
 ### Senior Consultant
 
@@ -101,12 +101,12 @@ Building robust & scalable data systems. US Citizen and UK ILR.
         -   Revenue increase from $1.8M to $6.0M; internal investment by firm ($0.5M) to generalize new capability based on client deliverable (see <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf>)
 
 
-<a id="orgeed7096"></a>
+<a id="orgc97e89e"></a>
 
 ## US FOOD AND DRUG ADMINISTRATION
 
 
-<a id="orgc37a526"></a>
+<a id="org0c613cf"></a>
 
 ### Quantitative Research Fellow
 
@@ -115,39 +115,39 @@ Building robust & scalable data systems. US Citizen and UK ILR.
     and effectiveness. Using large data sets to improve the prediction and regulatory decision making for generic drugs.
 
 
-<a id="org3a9817e"></a>
+<a id="org4657538"></a>
 
 # Education
 
 
-<a id="org30563ee"></a>
+<a id="orgd0553c5"></a>
 
 ## University of Michigan
 
 
-<a id="orgf93b843"></a>
+<a id="orgf18632f"></a>
 
 ### PhD Pharmaceutical Sciences
 
 -   *Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications*
 
 
-<a id="orga834967"></a>
+<a id="org635d9c5"></a>
 
 ## New York University
 
 
-<a id="org187d48e"></a>
+<a id="orgf5c6f0c"></a>
 
 ### MSc Computational Biology
 
 
-<a id="org4db7ace"></a>
+<a id="org807ec59"></a>
 
 ## University of Arizona
 
 
-<a id="orga1e9e51"></a>
+<a id="orgbdc8ba6"></a>
 
 ### BSc Mathematics
 
@@ -156,6 +156,24 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 
 </div>
 <table>
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bordes2024introductionvisionlanguagemodeling">Bordes et&nbsp;al.(2024)</a>]
+</td>
+<td class="bibtexitem">
+F.&nbsp;Bordes et&nbsp;al.
+ An introduction to vision-language modeling.
+ <em>arXiv</em>, page 2405.17247, may 2024.
+ 10.48550/arXiv.2405.17247.
+ URL <a href="https://arxiv.org/abs/2405.17247">https://arxiv.org/abs/2405.17247</a>.
+[&nbsp;<a href="refs_bib.html#bordes2024introductionvisionlanguagemodeling">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.48550/arXiv.2405.17247">DOI</a>&nbsp;| 
+<a href="https://arxiv.org/abs/2405.17247">http</a>&nbsp;]
+
+</td>
+</tr>
+
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
