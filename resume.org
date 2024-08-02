@@ -16,9 +16,9 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 * Experience
 ** META
 :PROPERTIES:
-:LOCATION: Bay Area, CA
+:LOCATION: London, UK / Bay Area, CA
 :END:
-*** AI Research - Data Lead  (IC6)
+*** AI Research - Data Lead (IC6)
 :PROPERTIES:
 :FROM: <2020-01-27>
 :TO: Current
@@ -26,7 +26,7 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 
 /FAIR/
 - Advancing the state-of-the-art in artificial intelligence through open research for the benefit of all.
-- Specializing on data pipelines and LLMs
+- Specializing on scaling data pipelines, LLMs, and next-generation reasoning models
 - https://ai.meta.com/research/
 
 /RealityLabs Research/
@@ -34,7 +34,7 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 - *Semantic Search* -- /Python/
   - Enable discoverabilty and reusability of multi-modal (text, audio, video, images) datasets by developing a unified search API and powering semantic queries through the use of large transformer (e.g. CLIP, ImageBind, Whisper)  models to extract embeddigns
 - *Geospatial Ingestion and Indexing* -- /Python, C++/
-  - Creator and maintainer of pipeline, enabling geographic search for raw data 
+  - Creator and maintainer of pipeline, enabling geographic search for raw data
 - *Distributed Computing* -- /Python, C++/
   - Enabled distributed computing to run large-scale optimization libraries on Meta cloud infrastructure
 
