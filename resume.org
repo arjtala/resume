@@ -19,8 +19,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** Senior Staff and Data Lead, AI Research
 :PROPERTIES:
-:FROM: <2020-01-27>
-:TO: Current
 :END:
 
 /FAIR/
@@ -43,8 +41,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** Machine Learning Engineer
 :PROPERTIES:
-:FROM: <2017-08-01>
-:TO:   <2020-01-26>
 :END:
 - *Acquired by Facebook January 2020*
 - Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
@@ -63,8 +59,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** Senior Consultant
 :PROPERTIES:
-:FROM: <2016-08-15>
-:TO: <2017-07-31>
 :END:
 - Mission Analytics in Business Model and Transformation/Strategy and Operations.
 - Supporting senior government executives in the development of the organization's
@@ -82,8 +76,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** Quantitative Research Fellow
 :PROPERTIES:
-:FROM: <2015-07-15>
-:TO: <2016-08-14>
 :END:
 - Division of Quantitative Methods and Modeling in the Office of Research and Standards within the Office of Generic Drugs.
 - Applying mathematical analysis to physiological/molecular based models for drug absorption, bioavailability, distribution

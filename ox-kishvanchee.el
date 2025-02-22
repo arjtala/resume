@@ -41,7 +41,11 @@ today => today"
 (defun ox-kishvanchee--format-time-window (from-date to-date)
 "Join date strings in a time window.
 FROM-DATE -- TO-DATE
-in case TO-DATE is nil return Present"
+return empty string if both nil
+otherwise if TO-DATE is nil return Present"
+  (if (and (= (length from-date) 0)
+           (= (length to-date) 0))
+      ""  ; Return empty string if both dates are empty
   (concat
    (ox-kishvanchee--org-timestamp-to-shortdate from-date)
    " -- "
