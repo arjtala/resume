@@ -41,8 +41,8 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** Machine Learning Engineer
 :PROPERTIES:
+:TO: Acquired by Facebook January 2020
 :END:
-- *Acquired by Facebook January 2020*
 - Building core data flow and analysis pipeline for location-based recognition, allowing devices to see and remember
   their surroundings and augment the world around them. Cloud infrastructure allows ordinary mobile devices to enhance
   the world around them by overlaying digital items onto the physical world, both indoors and outdoors, using machine vision
@@ -88,6 +88,8 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** PhD Pharmaceutical Sciences
 :PROPERTIES:
+:FROM:     <2009-09-01>
+:TO:       <2015-05-01>
 :END:
 - /Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications/
 ** New York University
@@ -96,6 +98,8 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** MSc Computational Biology
 :PROPERTIES:
+:FROM:     <2007-09-01>
+:TO:       <2009-05-01>
 :END:
 ** University of Arizona
 :PROPERTIES:
@@ -103,6 +107,8 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** BSc Mathematics
 :PROPERTIES:
+:FROM:     <2002-08-01>
+:TO:       <2006-06-01>
 :END:
 
 #+BIBLIOGRAPHY: refs abbrvnat

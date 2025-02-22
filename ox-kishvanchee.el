@@ -43,14 +43,21 @@ today => today"
 FROM-DATE -- TO-DATE
 return empty string if both nil
 otherwise if TO-DATE is nil return Present"
-  (if (and (= (length from-date) 0)
-           (= (length to-date) 0))
-      ""  ; Return empty string if both dates are empty
-  (concat
-   (ox-kishvanchee--org-timestamp-to-shortdate from-date)
-   " -- "
-   (if (= (length to-date) 0) "Present"
-     (ox-kishvanchee--org-timestamp-to-shortdate to-date))))
+  (cond
+   ;; Both dates empty
+   ((and (= (length from-date) 0)
+         (= (length to-date) 0))
+    "")
+   ;; Only from-date is empty, return just to-date
+   ((= (length from-date) 0)
+    to-date)
+   ;; Normal cases - either from-date + Present or from-date -- to-date
+   (t
+    (concat
+     (ox-kishvanchee--org-timestamp-to-shortdate from-date)
+     " -- "
+     (if (= (length to-date) 0) "Present"
+       (ox-kishvanchee--org-timestamp-to-shortdate to-date)))))))
 
 
 ;;; Define Back-End
