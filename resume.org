@@ -3,7 +3,6 @@
 #+date: \today
 #+author: Arjang Talattof, Ph.D.
 #+email: arjang@umich.edu
-#+twitter: \_cactuscowboy
 #+linkedin: arjang-talattof-a974845a
 #+github: arjtala
 # Local Variables:
@@ -18,7 +17,7 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :PROPERTIES:
 :LOCATION: London, UK / Bay Area, CA
 :END:
-*** AI Research - Data Lead (IC6)
+*** Senior Staff and Data Lead, AI Research
 :PROPERTIES:
 :FROM: <2020-01-27>
 :TO: Current
@@ -26,7 +25,7 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 
 /FAIR/
 - Advancing the state-of-the-art in artificial intelligence through open research for the benefit of all.
-- Specializing on scaling data pipelines, LLMs, and next-generation reasoning models
+- Specializing in scaling data pipelines and ensuring data safety for LLMs and next-generation reasoning models
 - https://ai.meta.com/research/
 
 /RealityLabs Research/
@@ -97,8 +96,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** PhD Pharmaceutical Sciences
 :PROPERTIES:
-:FROM:     <2009-09-01>
-:TO:       <2015-05-01>
 :END:
 - /Mechanistic Analysis and Quantification of Gastrointestinal Motility: Physiological Variability and Plasma Level Implications/
 ** New York University
@@ -107,8 +104,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** MSc Computational Biology
 :PROPERTIES:
-:FROM:     <2007-09-01>
-:TO:       <2009-05-01>
 :END:
 ** University of Arizona
 :PROPERTIES:
@@ -116,8 +111,6 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 :END:
 *** BSc Mathematics
 :PROPERTIES:
-:FROM:     <2002-08-01>
-:TO:       <2006-06-01>
 :END:
 
 #+BIBLIOGRAPHY: refs abbrvnat
