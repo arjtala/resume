@@ -57,7 +57,7 @@ otherwise if TO-DATE is nil return Present"
      (ox-kishvanchee--org-timestamp-to-shortdate from-date)
      " -- "
      (if (= (length to-date) 0) "Present"
-       (ox-kishvanchee--org-timestamp-to-shortdate to-date)))))))
+       (ox-kishvanchee--org-timestamp-to-shortdate to-date))))))
 
 
 ;;; Define Back-End

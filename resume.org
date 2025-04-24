@@ -15,15 +15,15 @@ Building robust & scalable data systems. US Citizen and UK ILR.
 * Experience
 ** META
 :PROPERTIES:
-:LOCATION: London, UK / Bay Area, CA
+:LOCATION: Bay Area, CA
 :END:
-*** Senior Staff and Data Lead, AI Research
+*** Senior Staff (IC7) and Data Lead, AI Research
 :PROPERTIES:
 :END:
 
 /FAIR/
-- Advancing the state-of-the-art in artificial intelligence through open research for the benefit of all.
-- Specializing in scaling data pipelines and ensuring data safety for LLMs and next-generation reasoning models
+- Advancing the state-of-the-art in artificial intelligence through open research.
+- Specializing in scaling data pipelines and ensuring data safety for LLMs, VLMs, and next-generation reasoning models
 - https://ai.meta.com/research/
 
 /RealityLabs Research/
