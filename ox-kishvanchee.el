@@ -19,6 +19,8 @@
 ;;
 ;;; Code:
 
+(add-to-list 'load-path ".")
+
 (require 'ox-latex)
 (require 'ox-bibtex)
 (require 'org)

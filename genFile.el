@@ -62,9 +62,18 @@ apps are not started from a shell."
 	(setq org-latex-pdf-process '("texi2dvi -p -b -V %f"))
 	(shell-command (format "pdflatex %s" outfile) "*Messages*" "*Messages*")
 	(message (format "Executing bibtex on %s" (file-name-sans-extension file)))
-	(shell-command (format "bibtex %s" (file-name-sans-extension outfile) ))
+	(shell-command (format "bibtex %s" (file-name-sans-extension outfile)))
 	(shell-command (format "pdflatex %s" outfile) "*Messages*" "*Messages*")
 	(org-md-export-to-markdown)))
 
 
 (set-exec-path-from-shell-PATH)
+;; Explicitly add homebrew bin to exec-path for bibtex2html
+(if (file-directory-p "/opt/homebrew/")
+    (add-to-list 'exec-path "/opt/homebrew/bin"))
+;; Add MacTeX binaries to exec-path
+(if (file-directory-p "/usr/local/texlive/")
+	(add-to-list 'exec-path "/usr/local/texlive/2025/bin/universal-darwin"))
+
+(provide 'genFile)
+;;; genFile.el ends here

@@ -11,7 +11,7 @@
 
 Building robust & scalable data systems. US Citizen and UK ILR.
 * Technical Skills
--  Python, Rust, C++, SQL, Cloud infrastructure (AWS, GCP)
+-  Python, Rust, C++, SQL, Cloud infras (AWS, GCP), Distributed systems, Graph Databases
 * Experience
 ** META
 :PROPERTIES:
