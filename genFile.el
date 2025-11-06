@@ -46,8 +46,7 @@ apps are not started from a shell."
 		(mapcar (lambda (d)
 				  (concat "refs" d))
 				'(".html" "_bib.html")))
-  (mapcar (lambda (d) (delete-file d)) refs_tempfiles)
-  )
+  (mapcar (lambda (d) (delete-file d)) refs_tempfiles))
 
 
 (defun ox/export-org-to-pdf ()
